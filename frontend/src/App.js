@@ -1,7 +1,7 @@
 // import data from './data';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import HomeScreen from './pages/HomeScreen.js';
-import ProductScreen from './pages/ProductScreen.js';
+import ProductScreen from './pages/ProductScreen';
 import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import { LinkContainer } from 'react-router-bootstrap';
