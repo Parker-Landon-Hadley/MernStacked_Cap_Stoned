@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      brand: 'White Faced Bear',
+      _id: '1',
       name: 'The First Fire',
       slug: 'the-first-fire',
       category: 'Hot Sauces',
@@ -14,7 +14,7 @@ const data = {
       ingredients: 'Habanero, Tomato, vinegar, salt, water',
     },
     {
-      brand: 'White Faced Bear',
+      _id: '2',
       name: 'Water Famine',
       slug: 'water-famine',
       category: 'Hot Sauces',
@@ -27,7 +27,7 @@ const data = {
       ingredients: '',
     },
     {
-      brand: 'White Faced Bear',
+      _id: '3',
       name: 'Sun Dance',
       slug: 'sun-dance',
       category: 'BBQ Sauces',
@@ -39,18 +39,6 @@ const data = {
       description: 'Tangy Sauerkraut for fixing guts and brats!',
       ingredients: '',
     },
-    // {
-    //   brand: 'White Faced Bear',
-    //   name: 'Rainbows End',
-    //   category: 'BBQ Sauces',
-    //   image: '/images/p4.jpg',
-    //   price: 16.37,
-    //   numberInStock: 10,
-    //   rating: 4.5,
-    //   numReviews: 30,
-    //   description: 'Sauce made from ghost peppers and volcanic ash',
-    //   ingredients: '',
-    // },
   ],
 };
 
