@@ -10,7 +10,7 @@ const data = {
       numberInStock: 29,
       rating: 4.7,
       numReviews: 32,
-      description: 'Sauce made from ghost peppers and volcanic ash',
+      description: 'Fermented sauce made to burn your booty and light your night on fire!',
       ingredients: 'Habanero, Tomato, vinegar, salt, water',
     },
     {
@@ -23,7 +23,7 @@ const data = {
       numberInStock: 14,
       rating: 4.1,
       numReviews: 17,
-      description: 'Sauce made from ghost peppers and volcanic ash',
+      description: 'Pineapple sauce intended for the beach',
       ingredients: '',
     },
     {
@@ -36,7 +36,7 @@ const data = {
       numberInStock: 22,
       rating: 3.8,
       numReviews: 8,
-      description: 'Sauce made from ghost peppers and volcanic ash',
+      description: 'Tangy Sauerkraut for fixing guts and brats!',
       ingredients: '',
     },
     // {
